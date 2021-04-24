@@ -2,7 +2,6 @@
   "name": "vuepress-start",
   "version": "1.0.0",
   "description": "JikeyChang Blog",
-  "homepage": "https:/jikeychang.github.io/myblog",
   "repository": {
     "type": "git",
     "url": "jikeyChang/vuepress-start"
@@ -36,7 +35,6 @@
     ]
   },
   "dependencies": {
-    "vuepress": "^1.8.2",
     "@vuepress/plugin-medium-zoom": "^1.7.1",
     "@vuepress/plugin-nprogress": "^1.7.1",
     "@vuepress/plugin-pwa": "^1.7.1",
@@ -44,6 +42,7 @@
     "dayjs": "^1.8.19",
     "remove-markdown": "^0.3.0",
     "vue-feather-icons": "^4.21.0",
+    "vuepress": "^1.8.2",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
   },
   "devDependencies": {

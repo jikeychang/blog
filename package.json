@@ -2,10 +2,6 @@
   "name": "vuepress-start",
   "version": "1.0.0",
   "description": "JikeyChang Blog",
-  "repository": {
-    "type": "git",
-    "url": "jikeyChang/vuepress-start"
-  },
   "license": "MIT",
   "author": "jikeychang@gmail.com>",
   "main": "index.js",

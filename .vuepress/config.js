@@ -44,7 +44,7 @@ module.exports = {
         link: '/',
       },
       {
-        text: 'tag',
+        text: 'Tag',
         link: '/tag/',
       },
       {

@@ -43,10 +43,10 @@ module.exports = {
         text: 'Blog',
         link: '/',
       },
-      // {
-      //   text: 'About',
-      //   link: '/about/',
-      // },
+      {
+        text: 'tag',
+        link: '/tag/',
+      },
       {
         text: 'Github',
         link: 'https://github.com/jikeychang'
@@ -59,21 +59,13 @@ module.exports = {
         path: '/',
       },
     ],
-    // globalPagination: {
-    //   prevText:'上一頁', // Text for previous links.
-    //   nextText:'下一頁', // Text for next links.
-    //   lengthPerPage:'10', // Maximum number of posts per page.
-    //   layout:'Pagination', // Layout for pagination page
-    // },
+    globalPagination: {
+      prevText:'上一页', // Text for previous links.
+      nextText:'下一页', // Text for next links.
+      lengthPerPage:'5', // Maximum number of posts per page.
+      layout:'Pagination', // Layout for pagination page
+    },
     sidebarDepth: 2,
-    // sidebar: {
-    //   '/config/': [
-    //     '',
-    //     'front-matter',
-    //     'palette',
-    //     'test'
-    //   ],
-    // },
     footer: {
       contact: [
         {

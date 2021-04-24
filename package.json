@@ -42,7 +42,6 @@
     "dayjs": "^1.8.19",
     "remove-markdown": "^0.3.0",
     "vue-feather-icons": "^4.21.0",
-    "vuepress": "^1.8.2",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
   },
   "devDependencies": {

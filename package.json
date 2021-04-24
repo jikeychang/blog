@@ -10,8 +10,8 @@
     "styles"
   ],
   "scripts": {
-    "build": "vuepress build blog",
-    "dev": "vuepress dev blog",
+    "build": "vuepress build",
+    "dev": "vuepress dev",
     "lint": "eslint . --ext .js,.vue",
     "test": "jest"
   },

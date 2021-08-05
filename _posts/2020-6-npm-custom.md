@@ -1,6 +1,6 @@
 ---
-title: npm常见指令
-date: 2018-04-10
+title: node-custom
+date: 2020-06-10
 tags: 
   - npm
   - nodejs
@@ -8,11 +8,13 @@ author: jikeychang
 location: Hangzhou  
 ---
 
-### npm常用命令
+#### npm常用命令
 
+<!--
 * 允许用户从npm服务器下载别人编写的第三方包到本地使用。
 * 允许用户从npm服务器下载并安装别人编写的命令行程序到本地使用。
 * 允许用户将自己编写的包或命令行程序上传到npm服务器供别人使用。
+* -->
 
 <!-- more -->
 

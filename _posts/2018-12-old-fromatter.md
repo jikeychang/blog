@@ -4,7 +4,7 @@ date: 2018-12-22
 tags: 
   - frontmatter
   - vuepress
-author: jikeychang
+author: JikeyChang
 location: Hangzhou  
 ---
 

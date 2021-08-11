@@ -4,7 +4,7 @@ date: 2020-06-10
 tags: 
   - npm
   - nodejs
-author: jikeychang
+author: JikeyChang
 location: Hangzhou  
 ---
 

@@ -31,7 +31,7 @@ module.exports = {
   // }],
   title: 'hello vuepress',
   description: 'blog theme for VuePress',
-  base: '/',
+  base: '/blog/',
   theme: '@vuepress/theme-blog',
   themeConfig: {
     // repo: 'vuepressjs/vuepress-theme-blog',
